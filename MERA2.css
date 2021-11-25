@@ -1,0 +1,96 @@
+
+
+
+*{
+    background-color: white;
+
+}
+.h{text-align: center;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    background-color:rgb(5, 5, 3);
+    color: rgb(255, 254, 255);
+    font-size: 48pt;
+    }
+    .la{text-align: center;
+        font-size: 18pt;
+    }
+    .lb{text-align: center;
+       font-size: 18pt;
+    }
+    .lc{text-align: center;
+        font-size: 18pt;
+    }
+    .ld{text-align: center;
+        font-size: 18pt;
+    }
+    .le{text-align: center;
+        font-size: 18pt;
+    }
+    .lf{text-align: center;
+        font-size: 18pt;
+    }
+    .aa{text-align: center;
+        text-transform: uppercase;
+        font-family: sans-serif;
+        background-color:rgb(73, 88, 156);
+        color: rgb(255, 254, 255);
+        font-size: 48pt;
+        }    
+        .ab{text-align: center;
+            font-size: 18pt;
+        }
+    .ac{text-align: center;
+        font-size: 18pt;
+
+    }
+    .ad{text-align: center;
+        font-size: 18pt;
+    }
+    .ae{text-align: center;
+        font-size: 18pt;
+    }
+    .af{text-align: center;
+        font-size: 18pt;
+    }
+    .ag{text-align: center;
+        text-transform: uppercase;
+        font-family: sans-serif;
+        background-color:rgb(178, 71, 199);
+        color: rgb(255, 254, 255);
+        font-size: 48pt;
+        }
+        .ah{text-align: center;
+            font-size: 18pt;
+        }
+        .ai{text-align: center;
+        }
+        .hh{font-family: sans-serif;
+        color: rgb(26, 39, 39);
+        }
+        .aj{text-align: center;
+            text-transform: uppercase;
+            font-family: sans-serif;
+            background-color:rgb(211, 99, 48);
+            color: rgb(255, 254, 255);
+            font-size: 48pt;}
+        .ak{font-family: sans-serif;
+            color: rgb(26, 39, 39);
+            text-align: center;
+        }
+        .ba{font-family: sans-serif;
+            background-color: cornflowerblue;
+            font-weight: bold;
+            color: cornsilk;
+            text-align: center;
+            font-size: 58pt;
+            font-weight: bolder;
+            text-shadow: 12pt;}
+        .bb{font-family: sans-serif;
+            color: rgb(26, 39, 39);
+            text-align: center;
+            font-size: 22pt;
+        }
+        .bc{align-items: center;
+
+        }
